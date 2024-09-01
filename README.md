@@ -5,7 +5,7 @@ Domain: Data Analytics
 Duration: 5th August to 5th September 2024
 Mentor: Muzammil Ahmed
 
-Project Overview: Diwali Sales Data Analysis
+Project Overview: Diwali Sales EDA
 
 Objective: The primary objective of this project is to analyze Diwali sales data to uncover trends and patterns that can provide valuable insights into customer behavior, product preferences, and sales performance. The analysis aims to help businesses understand how different demographics, products, and regions contribute to overall sales during the Diwali festival, ultimately assisting in improving sales strategies.
 
@@ -37,3 +37,15 @@ Tech Stack Used:
 This analysis equips businesses with actionable insights into customer behavior during festive sales, helping them strategize their marketing and inventory decisions more effectively.
 
 
+
+![image](https://github.com/user-attachments/assets/2f16315f-3a2f-44a0-bdd9-e90cec7afc21)
+
+![image](https://github.com/user-attachments/assets/186e620b-bc9d-4e70-a3ea-81a24679d906)
+
+![image](https://github.com/user-attachments/assets/80aba455-5bb1-464e-84e9-9c4bbd345eef)
+
+![image](https://github.com/user-attachments/assets/ae2ffe30-84b6-446d-bc71-f8a33f4ef003)
+
+![image](https://github.com/user-attachments/assets/fe3622df-b0e1-4f8f-9641-dd38a52ef631)
+
+![image](https://github.com/user-attachments/assets/c42e6f7f-03ad-4e73-8388-daf2ccdd851a)
