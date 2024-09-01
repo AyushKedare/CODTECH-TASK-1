@@ -1,5 +1,5 @@
 Name: Ayush Kedare
-Company: COSTECH IT SOLUTIONS
+Company: CODTECH IT SOLUTIONS
 ID: CT08DS6458
 Domain: Data Analytics
 Duration: 5th August to 5th September 2024
